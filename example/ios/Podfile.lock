@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - tom_sensors (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - tom_sensors (from `.symlinks/plugins/tom_sensors/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  tom_sensors:
+    :path: ".symlinks/plugins/tom_sensors/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  tom_sensors: 78fa9e69530867e1f3ff2a6f153f705f4b0f15fc
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
